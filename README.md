@@ -12,4 +12,4 @@
 
 - Design inspired by: Peeely [link](https://www.uplabs.com/posts/free-book-reading-app)
 
-Gita is for users to read Shreemad Bhagavad Gita in different languages. It is in development stage and many updates are underway for this app. It is written in flutter.
+Gita is an app for readers wanting to read Shreemad Bhagavad Gita in their languages. Currently the app is in development and only support HINDI as of now but support for other languages is being added to the app.
